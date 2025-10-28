@@ -7,15 +7,15 @@
         "node": "^20.19.0 || >=22.12.0"
     },
     "scripts": {
-        "dev": "bunx vite",
-        "build": "bunx run-p type-check \"build-only {@}\" --",
-        "preview": "bunx vite preview",
-        "build-only": "bunx vite build",
-        "type-check": "bunx vue-tsc --build",
-        "lint": "bunx eslint . --fix --cache",
-        "lint:check": "bunx eslint . --cache",
-        "format": "bunx prettier --write .",
-        "format:check": "bunx prettier --check ."
+        "dev": "vite",
+        "build": "run-p type-check \"build-only {@}\" --",
+        "preview": "vite preview",
+        "build-only": "vite build",
+        "type-check": "vue-tsc --build",
+        "lint": "eslint . --fix --cache",
+        "lint:check": "eslint . --cache",
+        "format": "prettier --write .",
+        "format:check": "prettier --check ."
     },
     "dependencies": {
         "@tailwindcss/vite": "^4.1.16",
