@@ -1,6 +1,8 @@
-import { type Config } from 'prettier';
-
-const config: Config = {
+/**
+ * @see https://prettier.io/docs/configuration
+ * @type {import("prettier").Config}
+ */
+const config = {
     semi: true,
     singleQuote: true,
     trailingComma: 'all',
