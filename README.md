@@ -22,7 +22,7 @@ This is my **not** professional website. This site is where I post the random th
 - Sperging about software and foreign languages (esp. Japanese)
 - The inner thoughts of a fujo
 
-<br>
+---
 
 ## Info
 
