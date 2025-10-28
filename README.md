@@ -22,8 +22,6 @@ This is my **not** professional website. This site is where I post the random th
 - Sperging about software and foreign languages (esp. Japanese)
 - The inner thoughts of a fujo
 
----
-
 ## Info
 
 This is a website styled to look like the Xbox 360 NXE menu. It has controller support included!
