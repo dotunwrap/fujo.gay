@@ -7,7 +7,6 @@
 [![Badge CI]][CI]
 ![Badge Bun]
 ![Badge Language]
-![Badge Lines]
 ![Badge X]
 
 </div>
@@ -22,7 +21,8 @@ This is my **not** professional website. This site is where I post the random th
 - Transfem struggles
 - Sperging about software and foreign languages (esp. Japanese)
 - The inner thoughts of a fujo
-  <br>
+
+<br>
 
 ## Info
 
@@ -47,6 +47,5 @@ The stack is:
 [Badge CD]: https://github.com/dotunwrap/fujo.gay/actions/workflows/cd.yml/badge.svg
 [Badge CI]: https://github.com/dotunwrap/fujo.gay/actions/workflows/ci.yml/badge.svg
 [Badge Language]: https://img.shields.io/github/languages/top/dotunwrap/fujo.gay
-[Badge Lines]: https://img.shields.io/tokei/lines/github/dotunwrap/fujo.gay
 [Badge X]: https://img.shields.io/twitter/follow/dotunwrap
 [Badge Bun]: https://img.shields.io/badge/Built_with-Bun-fbf0df?logo=bun&labelColor=212121
