@@ -41,7 +41,7 @@ The stack is:
 
 <!--------------------------------------------------{ Badges }--------------------------------------------------------->
 
-[Badge Website]: https://img.shields.io/website?url=https%3A%2F%2Ffujo.gay
+[Badge Website]: https://img.shields.io/website?url=https%3A%2F%2Ffujo.gay&label=fujo.gay
 [Badge CD]: https://github.com/dotunwrap/fujo.gay/actions/workflows/cd.yml/badge.svg
 [Badge CI]: https://github.com/dotunwrap/fujo.gay/actions/workflows/ci.yml/badge.svg
 [Badge Language]: https://img.shields.io/github/languages/top/dotunwrap/fujo.gay
