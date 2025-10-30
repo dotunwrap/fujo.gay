@@ -1,11 +1,11 @@
 <script setup lang="ts">
-import './styles/app.css';
+    import './styles/app.css';
 </script>
 
 <template>
-    <h1>You did it!</h1>
-    <p>
-        Visit <a href="https://vuejs.org/" target="_blank" rel="noopener">vuejs.org</a> to read the
-        documentation
-    </p>
+    <h1
+        class="bg-linear-to-r from-indigo-500 via-purple-500 to-pink-500 bg-clip-text text-4xl font-bold text-transparent"
+    >
+        Arf arf awruff!
+    </h1>
 </template>

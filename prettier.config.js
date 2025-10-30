@@ -8,6 +8,7 @@ const config = {
     trailingComma: 'all',
     printWidth: 100,
     tabWidth: 4,
+    vueIndentScriptAndStyle: true,
     plugins: ['@ianvs/prettier-plugin-sort-imports', 'prettier-plugin-tailwindcss'],
     tailwindStylesheet: './src/styles/app.css',
     importOrder: ['^vue$', '^vue-router$', '', '<THIRD_PARTY_MODULES>', '', '^[.]', '', '<TYPES>'],
